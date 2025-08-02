@@ -15,7 +15,7 @@ also included powered by [Biome](https://biomejs.dev/).
 1. Clone the repository (or click the "Use this template" button on GitHub):
 
 ```bash
-git clone https://github.com/matheuslanduci/vibecoding-discord.git name-of-your-bot
+git clone https://github.com/matheuslanduci/discord-vibecoding.git name-of-your-bot
 ```
 
 2. Navigate to the project directory:
